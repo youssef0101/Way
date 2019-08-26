@@ -1,3 +1,4 @@
 token=NjE1MzU1NTkwMzEwNjI1MzI5.XWM49w.LSiD_kfDQ4V1jukgC3NNpKDpokQ
 owner=583028928180912130
 prefix=Wa
+stayinchannel=true
